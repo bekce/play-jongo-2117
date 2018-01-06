@@ -1,7 +1,7 @@
 PlayJongo Play 2.6.x Module (bekce's fork)
 ==========================================
 
-This fork actually WORKS for Play 2.6+. 
+This fork actually WORKS for Play 2.6.x and Scala 2.12.2
 
 Edit your `build.sbt` like: 
 
